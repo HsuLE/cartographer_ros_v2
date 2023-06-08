@@ -12,7 +12,7 @@
 -- See the License for the specific language governing permissions and
 -- limitations under the License.
 
-include "backpack_2d.lua"
+include "revo_lds.lua"
 
 TRAJECTORY_BUILDER.pure_localization = true
 POSE_GRAPH.optimize_every_n_nodes = 20
